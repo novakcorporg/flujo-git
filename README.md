@@ -16,3 +16,8 @@ personales.
 3. Click en organizaciones (Menu Izquierda)
 4. Click en nueva organizacion
 5. Elegir plan y llenar datos
+
+## Creacion del fork
+
+Para crear un fork debes iniciar sesion en GitHub y luego ingresar a la landing page del 
+proyecto del que quieras sacar tu fork.
