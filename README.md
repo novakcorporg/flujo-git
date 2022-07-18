@@ -8,7 +8,6 @@ Se recomienda crear una organizacion que sea la propietaria del repositorio prin
 de dicho repositorio los miembros o colaboradores pueden hacer un fork hacia sus cuentas
 personales.
 
-
 ### Pasos para crear una organizacion
 
 1. Click en la foto de perfil (Esquina superior derecha)
@@ -19,7 +18,7 @@ personales.
 
 ## Creacion del fork
 
-Para crear un fork debes iniciar sesion en GitHub y luego ingresar a la landing page del 
+Para crear un fork debes iniciar sesion en GitHub y luego ingresar a la landing page del
 proyecto del que quieras sacar tu fork.
 
 ## Como trabajar con dos o mas remotos
@@ -32,3 +31,5 @@ Agregar remotos
 
 Eliminar remotos
 `git remote remove flujo-git`
+
+# gracias por contribuir
